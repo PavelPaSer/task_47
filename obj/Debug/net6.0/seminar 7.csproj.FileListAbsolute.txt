@@ -1,0 +1,15 @@
+/Users/pavelpashkov/seminar 7/bin/Debug/net6.0/seminar 7
+/Users/pavelpashkov/seminar 7/bin/Debug/net6.0/seminar 7.deps.json
+/Users/pavelpashkov/seminar 7/bin/Debug/net6.0/seminar 7.runtimeconfig.json
+/Users/pavelpashkov/seminar 7/bin/Debug/net6.0/seminar 7.dll
+/Users/pavelpashkov/seminar 7/bin/Debug/net6.0/seminar 7.pdb
+/Users/pavelpashkov/seminar 7/obj/Debug/net6.0/seminar 7.csproj.AssemblyReference.cache
+/Users/pavelpashkov/seminar 7/obj/Debug/net6.0/seminar 7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelpashkov/seminar 7/obj/Debug/net6.0/seminar 7.AssemblyInfoInputs.cache
+/Users/pavelpashkov/seminar 7/obj/Debug/net6.0/seminar 7.AssemblyInfo.cs
+/Users/pavelpashkov/seminar 7/obj/Debug/net6.0/seminar 7.csproj.CoreCompileInputs.cache
+/Users/pavelpashkov/seminar 7/obj/Debug/net6.0/seminar 7.dll
+/Users/pavelpashkov/seminar 7/obj/Debug/net6.0/refint/seminar 7.dll
+/Users/pavelpashkov/seminar 7/obj/Debug/net6.0/seminar 7.pdb
+/Users/pavelpashkov/seminar 7/obj/Debug/net6.0/seminar 7.genruntimeconfig.cache
+/Users/pavelpashkov/seminar 7/obj/Debug/net6.0/ref/seminar 7.dll
